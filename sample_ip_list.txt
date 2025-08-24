@@ -1,0 +1,9 @@
+# Sample IP list for Mac hardware inquiry
+# One IP address per line
+# Lines starting with # are ignored
+
+192.168.1.10
+192.168.1.11
+192.168.1.12
+10.0.0.50
+10.0.0.51
